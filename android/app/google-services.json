@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "603124696747",
+    "project_id": "ezi-teach-ams",
+    "storage_bucket": "ezi-teach-ams.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603124696747:android:605a0e64554812bdd719ee",
+        "android_client_info": {
+          "package_name": "com.example.ams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxntPJTcvLkx_gXrh3gYpR5N74Jll9vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603124696747:android:1866d2666ffbfb4fd719ee",
+        "android_client_info": {
+          "package_name": "com.eziteach.ams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxntPJTcvLkx_gXrh3gYpR5N74Jll9vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
